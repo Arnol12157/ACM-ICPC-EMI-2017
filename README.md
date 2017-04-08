@@ -8,7 +8,7 @@ NOTA: El libro que utilizaremos sera el del Capitulo Estudiantil de la UMSA
 - UVA - https://uva.onlinejudge.org/
 - SPOJ BOLIVIA (Ejercicios en Español) - http://bo.spoj.com
 - JUEZ DE LA UMSA - https://jv.umsa.bo/
-- JUEZ QUE UTILIZAREMOS -> https://a2oj.com/group?ID=2578
+- JUEZ QUE UTILIZAREMOS - https://a2oj.com/group?ID=2578
 
 ## Pagina de Facebook
 
